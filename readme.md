@@ -1,4 +1,4 @@
-This is the code for the paper: Mohammad Tariqul Islam, S. M. Mahbubur Rahman, M. Omair Ahmad, M. N. S. Swamy, "A Variational Step for Removal of Mixed Gaussian-Impulse Noise from Images".
+This is the code for the paper: Mohammad Tariqul Islam, Dipayan Saha, S. M. Mahbubur Rahman, M. Omair Ahmad, M. N. S. Swamy, "A Variational Step for Removal of Mixed Gaussian-Impulse Noise from Images".
 
 The codes have been run and tested on MATLAB 2016b.
 
