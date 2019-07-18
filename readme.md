@@ -1,6 +1,6 @@
 This is the code for the paper: 
 
-Islam, Mohammad Tariqul, Dipayan Saha, SM Mahbubur Rahman, M. Omair Ahmad, and M. N. S. Swamy. "A Variational Step for Reduction of Mixed Gaussian-Impulse Noise from Images." In 2018 10th International Conference on Electrical and Computer Engineering (ICECE), pp. 97-100. IEEE, 2018.
+**Mohammad Tariqul Islam**, Dipayan Saha, SM Mahbubur Rahman, M. Omair Ahmad, and M. N. S. Swamy. "A Variational Step for Reduction of Mixed Gaussian-Impulse Noise from Images." In *2018 10th International Conference on Electrical and Computer Engineering (ICECE)*, pp. 97-100. IEEE, 2018.
 
 The codes have been run and tested on MATLAB 2016b.
 
